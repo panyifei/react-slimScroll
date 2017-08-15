@@ -1,0 +1,23 @@
+{
+  "name": "react-slimscroll",
+  "version": "1.0.0",
+  "description": "Just like jQuery-slimScroll does",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/panyifei/react-slimScroll.git"
+  },
+  "keywords": [
+    "react",
+    "slimScroll"
+  ],
+  "author": "panyifei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/panyifei/react-slimScroll/issues"
+  },
+  "homepage": "https://github.com/panyifei/react-slimScroll#readme"
+}
